@@ -1,3 +1,5 @@
+/* A simple brainfuck interpreter made with help from code of @maxcountryman - github.com/maxcountryman */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
