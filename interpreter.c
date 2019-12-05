@@ -1,4 +1,4 @@
-/* A simple brainfuck interpreter made with help from code of @maxcountryman - github.com/maxcountryman */
+/* A simple brainfuck interpreter */
 
 #include <stdio.h>
 #include <string.h>
